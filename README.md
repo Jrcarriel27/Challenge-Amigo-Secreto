@@ -1,7 +1,7 @@
 # Challenge Amigo Secreto
 ## Sobre o Projeto :computer:
 E um projeto intuitivo, onde você pode rodar em seu navegador, tera opção de adicionar os nomes dos seus amigos, depois classificar de forma dinâmica de quem sera o amigo secreto de quem, pois ele não repete nomes e já da o resultado das duplas.
-Foi criado um botão para caso tenha adicionado um nome errado, facilitando o acesso.
+Foi criado um botão para remover o nome, caso tenha adicionado um nome errado, facilitando o acesso.
 
 ## Tecnologias Usadas
 <div style="flex-basis: 48%;">
