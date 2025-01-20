@@ -9,5 +9,4 @@ E um projeto intuitivo, onde você pode rodar em seu navegador, tera opção de 
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
  
-## Link do Projeto
-https://github.com/Jrcarriel27/Challenge-Amigo-Secreto
+
